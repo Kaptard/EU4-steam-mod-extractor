@@ -1,6 +1,8 @@
-A simple extractor for EU4 mods downloaded from Steam.
+**A simple extractor for EU4 mods downloaded from Steam.**
 
-####
+##
+
+<br>
 
 ### What does this do?
 This tool extracts EU4 mods taken directly from Steam's API (via
